@@ -4,7 +4,7 @@
  * _JavaScript ES6+_
  * _React, Redux,_
  * _Styled Components, SCSS_
- * _GatsbyJS with GraphQL Queries
+ * _GatsbyJS with GraphQL Queries_
  * _Jest, React Testing Library,_
     
 #### 👀 I'm currently looking for first job. 
