@@ -3,6 +3,7 @@
 * **JavaScript, TypeScript**
 * **React, Next, Redux**
 * **Node, Express**
+* **GraphQL, REST API**
 * **SASS/SCSS, Styled Components**
 * **MySQL, MongoDB,**
 
