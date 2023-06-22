@@ -1,3 +1,4 @@
+![codewars badge](https://www.codewars.com/users/szildaniel/badges/large)
 ## 👋 Hi, I’m Daniel Mydlarz - Full Stack Develoepr ##
 ### TECH STACK: 
 * **JavaScript, TypeScript**
